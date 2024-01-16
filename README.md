@@ -4,13 +4,13 @@
 - Instructed by Dr. Ali Jahanian
 
 ## Table of Contents
-Here's the content of homeworks
+Here's the homeworks' content.
 
 Homework no. | Content
 | :---: | :---: 
 [Homework 1](HW1) | Waveform Sketching
 
-And here's the name of each project
+And here's the projects' content.
 
 Projet no. | Project Name
 | :---: | :---: 
