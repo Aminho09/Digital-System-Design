@@ -19,5 +19,5 @@ Projet no. | Project Name
 [Project 4](PROJ4) | Serial FullAdder
 [Project 5](PROJ5) | Full-Duplex UART
 [Project 6](PROJ6) | Half-Duplex UART
-Project 7 | Elevator
+[Project 7](PROJ7)| Elevator
 Final Project | Kasumi Algorithm
